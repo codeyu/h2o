@@ -1,0 +1,22 @@
+.content {
+	padding-bottom: 40px;
+}
+.content-grids h2 {
+color: #00aeff;
+margin-bottom: 2em;
+text-decoration: none;
+text-align: center;
+display: block;
+font-family: 'Oswald', sans-serif;
+}
+.circle-img {
+  width: 92px;
+  height: 92px;
+  overflow: hidden;
+}
+
+.circle-img img {
+  height: 100%;
+  transform: translateX(-50%);
+  margin-left: 50%;
+}
